@@ -1,9 +1,14 @@
 # vue-create20
 
 ## Project setup
-```
-npm install
-```
+Created by Johnny Zhao from Rutgers University. 
+This is a fundamental frontend website design code that includes modules as below:  
+1 main.js  
+2 app.vue  
+3 component  
+4 router  
+5 views  
+6.temp
 
 ### Compiles and hot-reloads for development
 ```
